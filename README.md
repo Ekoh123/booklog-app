@@ -1,2 +1,2 @@
 # booklog-app
-An app to help keep track of all books read in a time period  
+An app to help keep track of all books read over a period
